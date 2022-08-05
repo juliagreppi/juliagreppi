@@ -6,3 +6,7 @@
 body{
     background-color: aqua;
 }
+h2{
+    text-transform: uppercase;
+    color: red;
+}
